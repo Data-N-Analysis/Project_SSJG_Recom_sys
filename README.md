@@ -19,7 +19,7 @@
   <tr>
     <td align="center">
     <a href="https://github.com/sbang9">
-      <img src="https://avatars.githubusercontent.com/u/92065443?v=4" width="100px;" alt=""/>
+      <img src="https://avatars.githubusercontent.com/u/139520591?v=4" width="100px;" alt=""/>
       <br />
       <sub>
         <b>방승일</b>
@@ -49,7 +49,7 @@
     </td>
     <td align="center">
     <a href="https://github.com/beenbb">
-      <img src="https://avatars.githubusercontent.com/u/92065443?v=4" width="100px;" alt=""/>
+      <img src="https://avatars.githubusercontent.com/u/157565812?v=4" width="100px;" alt=""/>
       <br />
       <sub>
         <b>안예빈</b>
