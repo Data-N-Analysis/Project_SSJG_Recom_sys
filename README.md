@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td align="center">
-    <a href="https://github.com/StatisticsFox">
+    <a href="https://github.com/sbang9">
       <img src="https://avatars.githubusercontent.com/u/92065443?v=4" width="100px;" alt=""/>
       <br />
       <sub>
@@ -48,7 +48,7 @@
     <br />
     </td>
     <td align="center">
-    <a href="https://github.com/StatisticsFox">
+    <a href="https://github.com/beenbb">
       <img src="https://avatars.githubusercontent.com/u/92065443?v=4" width="100px;" alt=""/>
       <br />
       <sub>
@@ -70,14 +70,14 @@
 ## Project Summary
 - 프로젝트를 자유양식으로 자유롭게 설명해주세요
 
-**ML_project_Taitanic**
-- 대회명 : 추천화 시스템
-- 팀명 : 오승태콤미쳤팀
-- 주제 : 타이타님 생존자를 예측하는 ML 구현
+**ML_project_Animation**
+- 대회명 : 애니메이션 추천 시스템
+- 팀명 : 승승장구
+- 주제 : MyanimeList의 데이터를 이용하여 사용자에게 애니메이션을 추천하는 알고리즘 구축 및 웹 데모 만들기
 
 
-- 데이터셋 : 데이콘(https://dacon.io/competitions/open/235539/overview/description)
-- 목적/효과 : 타이타님 생존자의 정보를 ~~~~~~~ 예측하는 모델을 ~~~~~~~~~ 이용하여 ㅇ떻게 ~~~~~~ 개발
+- 데이터셋 : 캐글(https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020)
+- 목적/효과 : 2020년까지의 애니메이션 데이터로 사용자의 입력에 따라 애니메이션 3개를 추천하는 추천시스템을 파이썬의 tensorflow를 이용하여 gradio로 웹 데모를 구현하여 hugging face에 올림
 - 기술스택<div align=left> 
    `전처리` : 
    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
@@ -102,14 +102,15 @@
    </div>
 
 - 역할분담 
-   - `최지혁` : EDA, 시각화
-   - `오승태` : 전처리, 통계검증
-   - `정래경` : 머신러닝 학습, 모델링, 모델 최적화
+   -  `정래경` : 전체 코드 연결 및 웹 데모 구현
+   -  `안예빈` : EDA, 시각화
+   - '방승일' : 시각화, 이미지 파일 크롤링
+   - `오승태` : 추천시스템 모델링
 <br/>
 
 ## ETCs
 
-웹 구현: (링크를 넣어주세요)
+웹 구현: (아직 미완성)
 
 <br/><br/>
 
