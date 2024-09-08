@@ -59,16 +59,12 @@
     </td>
   </tr>
 </table>
-  
-  * 위와 같은 방식으로 깃허브 링크를 걸어주시면 됩니다.
-  * 기타 블로그, 티스토리, 노션 등 본인을 소개할 수 있는 페이지도 좋습니다.
 
-<br/>
 
 <br/>
 
 ## Project Summary
-- 프로젝트를 자유양식으로 자유롭게 설명해주세요
+- 추천시스템 스터디 후 프로젝트로 진행하고 싶어 관심있는 주제로 추천시스템을 적용하고자 함, 애니메이션 데이터를 통해 추천시스템 구축후 웹 데모 만들어봄
 
 **ML_project_Animation**
 - 대회명 : 애니메이션 추천 시스템
@@ -86,10 +82,11 @@
    `시각화` : 
    <img src="https://img.shields.io/badge/matplotlib-006c66?style=for-the-badge&logo=Pandas&logoColor=white">
    <img src="https://img.shields.io/badge/Seaborn-0080ff?style=for-the-badge&logo=Seaborn&logoColor=white">
+   <img src="https://img.shields.io/badge/WordCloud-4aa8d8?style=for-the-badge&logo=&logoColor=white">
        <br>
    `ML 모델` : 
    <img src="https://img.shields.io/badge/sckit-learn-F7931E?style=for-the-badge&logo=sckit-learn&logoColor=white">
-   <img src="https://img.shields.io/badge/lightGBM-ffd400?style=for-the-badge&logo=&logoColor=white">
+   <img src="https://img.shields.io/badge/NCF-ffd400?style=for-the-badge&logo=&logoColor=white">
    <img src="https://img.shields.io/badge/XGBoost-4aa8d8?style=for-the-badge&logo=&logoColor=white">
    <img src="https://img.shields.io/badge/CatBoost-fff44f?style=for-the-badge&logo=&logoColor=white">
        <br>
